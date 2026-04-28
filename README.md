@@ -7,8 +7,8 @@ Solving LeetCode problems daily to master Data Structures & Algorithms.
 
 ## 📊 Progress
 - Total Problems Solved: 2
-- Easy: 1
-- Medium: 1
+- Easy: 8
+- Medium: 3
 - Hard: 0
 
 ## 🧠 Topics Covered
