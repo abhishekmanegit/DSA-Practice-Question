@@ -6,13 +6,11 @@ Solving LeetCode problems daily to master Data Structures & Algorithms.
 10 Feb 2026
 
 ## 📊 Progress
-- Total Problems Solved: 2
-- Easy: 8
-- Medium: 3
-- Hard: 0
+- Total Problems Solved: 16
+
 
 ## 🧠 Topics Covered
-- Arrays
+- ✔️Arrays
 - Strings
 - LinkedList
 - Stack
