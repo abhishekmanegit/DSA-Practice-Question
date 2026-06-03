@@ -6,13 +6,13 @@ Solving LeetCode problems daily to master Data Structures & Algorithms.
 10 Feb 2026
 
 ## 📊 Progress
-- Total Problems Solved: 25
+- Total Problems Solved: 27
 
 
 ## 🧠 Topics Covered
 - ✔️Arrays
    ✔️ Binary Search
-- Sliding Window
+-✔️ Sliding Window
 - LinkedList
 - Stack
 - Queue
