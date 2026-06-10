@@ -6,7 +6,7 @@ Solving LeetCode problems daily to master Data Structures & Algorithms.
 10 Feb 2026
 
 ## 📊 Progress
-- Total Problems Solved: 28
+- Total Problems Solved: 48
 
 
 ## 🧠 Topics Covered
