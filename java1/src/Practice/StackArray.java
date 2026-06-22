@@ -1,3 +1,5 @@
+package Practice;
+
 class StackArray{
     int top = -1;
     int size = 5;

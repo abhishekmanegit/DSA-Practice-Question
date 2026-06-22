@@ -1,3 +1,5 @@
+package Practice;
+
 public class MaxInArray {
 
     public static int max(int[] arr) {

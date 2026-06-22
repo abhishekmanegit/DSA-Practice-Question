@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package Practice;
 
 public class NoColsFixed {
     public static void main(String[] args){

@@ -1,3 +1,5 @@
+package Practice;
+
 public class RecurionDemo {
 
     public static void printNum(int n) {
