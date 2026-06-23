@@ -1,4 +1,4 @@
-package DSAByHarsh;
+package DSAByHarsh.Day1;
 
 import java.util.Scanner;
 

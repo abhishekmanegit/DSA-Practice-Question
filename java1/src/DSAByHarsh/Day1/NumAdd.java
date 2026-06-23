@@ -1,7 +1,6 @@
-package DSAByHarsh;
+package DSAByHarsh.Day1;
 
 import java.util.Scanner;
-import java.io.*;
 
 public class NumAdd {
     public static void main(String [] args) {
