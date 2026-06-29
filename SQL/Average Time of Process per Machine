@@ -29,7 +29,7 @@ Return the result table in any order.
 
 
 
-***
+
 
 select a1.machine_id , round(avg(a2.timestamp - a1.timestamp),3) as processing_time
 from Activity as a1 join Activity a2 
